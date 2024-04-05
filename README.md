@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello, amigos! 👋
+
+| Language | Greeting    |
+|----------|-------------|
+| English  | Hello, friends! |
+| Spanish  | ¡Hola, amigos! |
+| French   | Bonjour, amis! |
+| German   | Hallo, Freunde! |
+| Italian  | Ciao, amici!   |
+
 
 <!--
 **tkrmandar/tkrmandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
